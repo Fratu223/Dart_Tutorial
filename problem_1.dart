@@ -1,3 +1,5 @@
+// Write a function that prints the number of higher value out of two inputs.
+
 void higher(int n, int m) {
     if (n > m)
     {
