@@ -1,7 +1,7 @@
 // Write a function that sums up two numbers
 
 void higher(int n, int m) {
-    print(n + m)
+    print(n + m);
 }
 
 main() {
